@@ -20,9 +20,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"><a href="mailto:progmamun@gmail.com" target="blank"><img align="center" src="https://www.pngkey.com/png/full/84-840977_email-png-icon.png" height="30" width="30"/></a>&nbsp;<a href="https://progmamun.com/" target="blank"><img align="center" src="https://ghcdn.rawgit.org/progmamun/demo/main/storage/tempfiles/Asset%2019rgblogo.jpg" height="30" width="40" /></a><a href="https://twitter.com/AlMamun91812565" target="blank"><img align="center" src="https://ghcdn.rawgit.org/progmamun/demo/main/storage/tempfiles/twitter.png" alt="progmamun" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/progmamun/" target="blank"><img align="center" src="https://ghcdn.rawgit.org/progmamun/demo/main/storage/tempfiles/linkedin.png" alt="progmamun" height="30" width="40" /></a>
-<a href="https://www.facebook.com/AlmamunkhanDev" target="blank"><img align="center" src="https://ghcdn.rawgit.org/progmamun/demo/main/storage/tempfiles/fb.png" alt="AlmamunkhanDev" height="30" width="40" /></a>
-<a href="https://www.instagram.com/progmamun/" target="blank"><img align="center" src="https://ghcdn.rawgit.org/progmamun/demo/main/storage/tempfiles/Instagram.png" alt="progmamun" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/progmamun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="progmamun" height="30" width="40" /></a>
+<a href="https://www.facebook.com/AlmamunkhanDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AlmamunkhanDev" height="30" width="40" /></a>
+<a href="https://www.instagram.com/progmamun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="progmamun" height="30" width="40" /></a>
 </p>
 
 <br />
