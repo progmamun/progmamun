@@ -17,3 +17,6 @@
 - ⚡ Fun fact **I Think i'm funny too :)**
 
 <br /><br />
+
+<h2 align="center">Github Stats</h2>
+<p align="center"> <img  align="center" src="https://github-readme-stats.vercel.app/api?username=progmamun&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></p>
