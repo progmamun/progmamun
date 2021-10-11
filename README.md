@@ -34,7 +34,7 @@
        <td><img alt="progmamun :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=progmamun&langs_count=14&theme=jolly&layout=compact&hide=html"> </td>
      </tr>
      <tr>
-        <td colspan="2" margin="auto"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=progmamun&theme=jolly&hide_border=true"></td>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=progmamun&theme=jolly&hide_border=true"></td>
      </tr>
    </table>
 </p>
