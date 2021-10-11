@@ -28,13 +28,13 @@
 
 <p align="center">
    <table>
-   <h1>Github Stats</h1>
+   <h1 align="center">Github Stats</h1>
        <tr>
        <td><img alt="progmamun :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=progmamun&theme=jolly&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
        <td><img alt="progmamun :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=progmamun&langs_count=14&theme=jolly&layout=compact&hide=html"> </td>
      </tr>
      <tr>
-        <td colspan="2"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=progmamun&theme=jolly&hide_border=true"></td>
+        <td colspan="2" margin="auto"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=progmamun&theme=jolly&hide_border=true"></td>
      </tr>
    </table>
 </p>
