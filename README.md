@@ -24,18 +24,15 @@
 <a href="https://www.instagram.com/progmamun/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="progmamun" height="30" width="40" /></a>
 </p>
 <br>
-<p align="center"><img align="center" src="" alt="progmamun" /></p>
-
 <br />
-
    <table>
-      <th>
-       <th>Github Stats</th>
-     </th>
-      <tr>
+   <caption>Github Stats</caption>
+       <tr>
        <td><img alt="progmamun :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=progmamun&theme=jolly&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
        <td><img alt="progmamun :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=progmamun&langs_count=14&theme=jolly&layout=compact&hide=html"> </td>
      </tr>
+     <tr>
+        <td><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=progmamun&theme=jolly&hide_border=true"></td>
+     </tr>
    </table>
 </p>
-<p align="center"> <img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=progmamun&theme=jolly&hide_border=true"></p>
