@@ -28,7 +28,7 @@
 
 <p align="center">
    <table>
-   <caption style="font-size: 26px">Github Stats</caption>
+   <h1>Github Stats</h1>
        <tr>
        <td><img alt="progmamun :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=progmamun&theme=jolly&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
        <td><img alt="progmamun :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=progmamun&langs_count=14&theme=jolly&layout=compact&hide=html"> </td>
