@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <a href="#" target="_blank"><p align="center"> <img src="https://ghcdn.rawgit.org/progmamun/demo/main/storage/tempfiles/assets/mamun3.svg" alt="progmamun" /> </a>
+=======
+<p align="center"> <img src="https://ghcdn.rawgit.org/progmamun/demo/main/storage/tempfiles/assets/mamun3.svg" alt="progmamun" /></p>
+>>>>>>> a4d2d35f016a69dc9b14b2f0b75faf852cccde15
 
 <h1 align="center">Hi<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Al Mamun Khan</h1>
 <h3 align="center">Web Developer</h3>
