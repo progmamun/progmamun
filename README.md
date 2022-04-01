@@ -38,4 +38,4 @@
      </tr>
    </table>
 </p>
-<a href="https://www.linkedin.com/in/progmamun/" target="_blank" rel="noopener"><p align="center"> <img src="https://rawcdn.githack.com/progmamun/private-svg/main/edit.svg/" alt="" /> </a>
+<a href="https://www.linkedin.com/in/progmamun/" target="_blank" rel="noopener"><p align="center"> <img src="https://rawcdn.githack.com/progmamun/programming-hero/c97f2903fe5033987d7738953ba9b4d0dedb618c/milestone-1/edit.svg" alt="" /> </a>
