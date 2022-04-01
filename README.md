@@ -37,5 +37,5 @@
         <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=progmamun&theme=jolly&hide_border=true"></td>
      </tr>
    </table>
-   <a href='https://rawcdn.githack.com/progmamun/private-svg/main/edit.svg/'></a>
 </p>
+<a href="https://www.linkedin.com/in/progmamun/" target="_blank" rel="noopener"><p align="center"> <img src="https://rawcdn.githack.com/progmamun/private-svg/main/edit.svg/" alt="" /> </a>
