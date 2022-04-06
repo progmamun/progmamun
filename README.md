@@ -1,8 +1,4 @@
-# <a href="https://www.linkedin.com/in/progmamun/" target="_blank" rel="noopener"><p align="center"> <img src="https://rawcdn.githack.com/progmamun/programming-hero/5e7a9d93012540777c2880f116cd243fc3df4e85/milestone-9/v0.2.svg" alt="" /> </a>
-
-<!-- <a href="https://www.linkedin.com/in/progmamun/" target="_blank" rel="noopener"><p align="center"> <img src="https://raw.githack.com/progmamun/demo/main/storage/tempfiles/assets/mamun3.svg" alt="mamun" /> </a> -->
-
-<!-- svg: https://rawcdn.githack.com/progmamun/programming-hero/c97f2903fe5033987d7738953ba9b4d0dedb618c/milestone-1/edit.svg -->
+<a href="https://www.linkedin.com/in/progmamun/" target="_blank" rel="noopener"><p align="center"> <img src="https://rawcdn.githack.com/progmamun/programming-hero/5e7a9d93012540777c2880f116cd243fc3df4e85/milestone-9/v0.2.svg" alt="" /> </a>
 
 # <h1 align="center">Hi<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Al Mamun Khan</h1>
 
@@ -35,12 +31,11 @@
    <table>
    <h1 align="center">Github Stats</h1>
        <tr>
-       <td><img alt="progmamun :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=progmamun&theme=jolly&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td><img alt="progmamun :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=progmamun&langs_count=14&theme=jolly&layout=compact&hide=html"> </td>
+       <td><img alt="progmamun :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=progmamun&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td><img alt="progmamun :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=progmamun&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
      </tr>
      <tr>
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=progmamun&theme=jolly&hide_border=true"></td>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=progmamun&theme=blue-green&hide_border=true"></td>
      </tr>
    </table>
 </p>
-<!-- <a href="https://www.linkedin.com/in/progmamun/" target="_blank" rel="noopener"><p align="center"> <img src="https://rawcdn.githack.com/progmamun/programming-hero/c97f2903fe5033987d7738953ba9b4d0dedb618c/milestone-1/edit.svg" alt="" /> </a> -->
