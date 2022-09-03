@@ -68,4 +68,4 @@
    </table>
 </p>
 
-<a href="https://app.daily.dev/devmamun"><img src="https://api.daily.dev/devcards.png" width="400" alt="Al Mamun Khan's Dev Card"/></a>
+<a href="https://app.daily.dev/devmamun"><img src="https://github.com/progmamun/progmamun/blob/main/devcard.svg" width="400" alt="Al Mamun Khan's Dev Card"/></a>
