@@ -1,23 +1,16 @@
 <a href="https://www.linkedin.com/in/progmamun/" target="_blank" rel="noopener"><p align="center"> <img src="https://rawcdn.githack.com/progmamun/programming-hero/5e7a9d93012540777c2880f116cd243fc3df4e85/milestone-9/v0.2.svg" alt="" /> </a>
 
 <h1 align="center">Hi There<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>, I'm Al Mamun Khan</h1>
-
-<!-- <h3 align="center">Web Specialist</h3> -->
-<p align="center"><img src="https://github.com/progmamun/progmamun/blob/main/devcard.svg" width="200" alt="Al Mamun Khan's Dev Card"/></p>
-
 <br />
 <br />
 
 [![Github](https://img.shields.io/github/followers/progmamun?label=Follow&style=social)](https://github.com/progmamun)&nbsp;![Profile views](https://gpvc.arturio.dev/progmamun)
 
-🌱 I’m currently learning [Golang](https://golang.org/) And [DevOps](https://www.google.com/search?q=DevOps)
+|                                                                 Daily.dev                                                                  |                                                                       StackOverflow                                                                       |
+| :----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <p align="center"><img src="https://github.com/progmamun/progmamun/blob/main/devcard.svg" width="200" alt="Al Mamun Khan's Dev Card"/></p> | [![Al-Mamun-khan-StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=15274012)](https://stackoverflow.com/users/15274012/al-mamun-khan) |
 
-💬 Ask me about **Web Solutions**<a href="https://stackoverflow.com/users/15274012/al-mamun-khan" target="_blank" rel="noopener" ><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2-432547.png" height="20" width="20"/></a>
-
-📫 How to reach me: progmamun@gmail.com
-
-⚡ Fun fact **I Think i'm funny too :)**
-<br/><br/>
+🌱 I’m currently learning [Golang](https://golang.org/) And [DevOps](https://www.google.com/search?q=DevOps).
 
 #### :muscle: Things I am challenging myself with:
 
