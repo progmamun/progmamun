@@ -35,19 +35,9 @@
 
 ---
 
-<br/> <br/>
+## <h2><img src = "https://media.giphy.com/media/R4H1oAuFVnEwdsXVoR/giphy.gif" width='50'/>&nbsp;Check out best DM<a href="https://passivejournal.com/ref/58/" target="_blank" rel="noopener"> Course</a></h2>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="mailto:progmamun@gmail.com" target="_blank" rel="noopener" ><img align="center" src="https://www.pngkey.com/png/full/84-840977_email-png-icon.png" height="30" width="40"/></a>&nbsp;
-<a href="https://stackoverflow.com/users/15274012/al-mamun-khan" target="_blank" rel="noopener" ><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2-432547.png" height="30" width="40"/></a>&nbsp;
-<a href="https://mamunrub.web.app/" target="_blank" rel="noopener"><img align="center" src="https://rawcdn.githack.com/progmamun/demo/bb7255483e0e917d6dab306620eb7ae8b94ba04c/storage/tempfiles/Asset%2019rgblogo.jpg" height="30" width="40" /></a><a href="https://twitter.com/progmamun/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="progmamun" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/progmamun/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="progmamun" height="30" width="40" /></a>
-<a href="https://www.facebook.com/AlmamunkhanDev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AlmamunkhanDev" height="30" width="40" /></a>
-<a href="https://www.instagram.com/progmamun/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="progmamun" height="30" width="40" /></a>
-</p>
-<br>
-<br />
+---
 
 <p align="center">
    <table>
