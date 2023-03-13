@@ -35,7 +35,7 @@
 
 ---
 
-## <h2><img src = "https://media.giphy.com/media/R4H1oAuFVnEwdsXVoR/giphy.gif" width='50'/>&nbsp;Check out best DM<a href="https://passivejournal.com/ref/58/" target="_blank" rel="noopener"> Course</a></h2>
+## <h2><img src = "https://media.giphy.com/media/R4H1oAuFVnEwdsXVoR/giphy.gif" width='50'/>&nbsp;Check Out Best DM<a href="https://passivejournal.com/ref/58/" target="_blank" rel="noopener"> Course</a></h2>
 
 ---
 
