@@ -52,7 +52,7 @@
 <p align="center">
    <table>
        <tr>
-       <td colspan="2"><img alt="progmamun :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=progmamun&langs_count=12&theme=blue-green&layout=compact&hide=html"></td>
+       <td colspan="2"><img alt="progmamun :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=progmamun&langs_count=12&theme=blue-green&layout=compact&hide=html,CSS,SCSS"></td>
      </tr> 
      <tr>
         <td colspan="2" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=progmamun&theme=blue-green&hide_border=true"></td>
