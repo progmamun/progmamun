@@ -17,9 +17,7 @@
   <tr>
     <td>
       <p align="center">
-        <a href="https://app.daily.dev/progmamun">
-          <img src="https://github.com/progmamun/progmamun/blob/main/devcard.svg" width="200" alt="Al Mamun Khan's Dev Card" />
-        </a>
+       <a href="https://app.daily.dev/devmamun"><img src="./devcard.png" width="356" alt="Al Mamun Khan's Dev Card"/></a>
       </p>
     </td>
     <td>
