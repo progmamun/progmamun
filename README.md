@@ -76,7 +76,7 @@
 
 ### Other Languages
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/C%2FC++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff" height="25" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25" />
@@ -85,19 +85,16 @@
 ## 👨‍💻 Profile Overview
 
 <p align="center">
-  <table align="center">
-    <tr>
-     <td><img alt="progmamun :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=progmamun&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=progmamun&langs_count=12&theme=blue-green&layout=compact&hide=html,CSS,SCSS" alt="progmamun :: Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=progmamun&theme=blue-green&hide_border=true" alt="progmamun :: GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+   <table>
+   <h1 align="center">Github Stats</h1>
+       <tr>
+       <td><img alt="progmamun :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=progmamun&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td><img alt="progmamun :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=progmamun&langs_count=6&theme=blue-green&layout=compact&hide=html"> </td>
+     </tr>
+     <tr>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=progmamun&theme=blue-green&hide_border=true"></td>
+     </tr>
+   </table>
 </p>
 
 ## 🛠️ Software Architecture
