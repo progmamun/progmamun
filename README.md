@@ -1,23 +1,27 @@
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/progmamun/" target="_blank" rel="noopener">
     <img src="https://rawcdn.githack.com/progmamun/programming-hero/5e7a9d93012540777c2880f116cd243fc3df4e85/milestone-9/v0.2.svg" alt="Al Mamun Khan" />
   </a>
-</p>
+  
+  <h1>Welcome to My Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 
-<h1 align="center">Welcome to My Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
+<a href="https://api.whatsapp.com/send/?phone=+8801516562647&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-Click%20Here-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/progmamun">
+<a href="https://github.com/progmamun">
     <img src="https://img.shields.io/github/followers/progmamun?label=Follow&style=social" alt="GitHub Follow" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=progmamun&color=228B22" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=progmamun&color=228B22" alt="Profile Views" />
+
+[![AL Mamun Khan](https://awesome-github-stats.azurewebsites.net/user-stats/progmamun?cardType=level-alternate&theme=jolly&preferLogin=true)](https://git.io/awesome-stats-card)
+
+</div>
 
 <table align="center">
   <tr>
     <td>
       <p align="center">
-       <a href="https://app.daily.dev/devmamun"><img src="./devcard.png" width="356" alt="Al Mamun Khan's Dev Card"/></a>
+       <a href="https://app.daily.dev/devmamun"><img src="./devcard.png" width="45%" alt="Al Mamun Khan's Dev Card"/></a>
       </p>
     </td>
     <td>
@@ -33,6 +37,8 @@
   </tr>
 </table>
 
+[![AL Mamun Khan](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=progmamun&theme=jolly)](https://git.io/awesome-stats-card)
+
 ### 🌱 Currently Learning
 
 - [AWS](https://aws.amazon.com/)
@@ -47,14 +53,22 @@
 - Exercising 3 days a week
 - Enhancing my CV with additional education beyond university
 
-## 🖥️ Operating System
+## 🖥️ My Default Operating System: Debian
 
-![Ubuntu](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🛠️ Tech Stack:
+
+- Frontend: **ReactJS**, **Next.js**, **Typescript**, **Shadcn UI**, **JavaScript**, **Redux**, **Zod**, **Axios.**
+- Backend: **Node.js**, **Express**, **Postgresql**, **Prisma**, **MongoDB**, **Mongoose**
+- Familiar: **Docker**, **AWS (EC2/S3)**, **PM2**, **C/C++**, **PHP**, **Golang**
+- Deployment: **Vercel**, **Railway**, **VPS**
+- Tools: **Git**, **GitHub**, **Postman**, **Jira**, **tmux**, **Vim**, **Supabase**, **Neon**
 
 ## 🚀 Technologies I Know
 
 <p align="center">
-  <img src="https://img.shields.io/badge/next-js-000000?style=for-the-badge&logo=next-js&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25" />
   <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" />
@@ -82,6 +96,10 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25" />
 </p>
 
+## 🛠️ Software Architecture
+
+- **Microservices**: My preferred architecture for building scalable and maintainable applications.
+
 ## 👨‍💻 Profile Overview
 
 <p align="center">
@@ -96,7 +114,3 @@
      </tr>
    </table>
 </p>
-
-## 🛠️ Software Architecture
-
-- **Microservices**: My preferred architecture for building scalable and maintainable applications.
