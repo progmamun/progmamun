@@ -57,7 +57,7 @@
 
 ### 🛒 B2B E-commerce Platform
 
-**🔗 <a href="https://chinaonlinebd.com" target="_blank">chinaonlinebd.com</a>**
+**🔗 https://chinaonlinebd.com**
 
 Chinaonlinebd.com is one of the largest wholesale marketplaces in Bangladesh, providing local and international products at wholesale prices. Users can also purchase products from Alibaba in BDT.
 
@@ -73,9 +73,9 @@ Chinaonlinebd.com is one of the largest wholesale marketplaces in Bangladesh, pr
 
 ### 🛍️ D2C/B2C E-commerce Platform
 
-- 🔗 <a href="https://apsara.com.bd" target="_blank">apsara.com.bd</a>
-- 🔗 <a href="https://ozybd.com" target="_blank">ozybd.com</a>
-- 🔗 <a href="https://techfev.com.bd" target="_blank">techfev.com.bd</a>
+- 🔗 https://apsara.com.bd
+- 🔗 https://ozybd.com
+- 🔗 https://techfev.com.bd
 
 End-to-end development including planning, architecture, and deployment.
 
@@ -93,7 +93,7 @@ End-to-end development including planning, architecture, and deployment.
 
 ### 📖 Library Management System (Bangla Department)
 
-**🔗 <a href="https://bangla.rub.ac.bd" target="_blank">bangla.rub.ac.bd</a>**
+**🔗 https://bangla.rub.ac.bd**
 
 A full digital + physical library management system designed for restricted academic access.
 
