@@ -49,6 +49,75 @@
 
 <div align="center">
 
+## 📈 Projects Overview:
+
+</div>
+
+### 🛒 B2B E-commerce Platform
+
+**🔗 https://chinaonlinebd.com**  
+**📅 Jan 2026 – Mar 2026**
+
+Chinaonlinebd.com is one of the largest wholesale marketplaces in Bangladesh, providing local and international products at wholesale prices. Users can also purchase products from Alibaba in BDT.
+
+**Role & Contribution:**
+
+- Full **frontend redesign** (Homepage to Dashboard)
+- Implemented core **UI/UX and functionality improvements**
+- Worked as part of the **ITCommerz team**
+
+---
+
+## 👨‍💻 Single (Full Ownership) Projects
+
+_(All projects share a similar D2C/B2C tech stack)_
+
+### 🛍️ D2C/B2C E-commerce Platform
+
+**🔗 https://apsara.com.bd**
+**🔗 https://ozybd.com**
+**🔗 https://techfev.com.bd**
+
+End-to-end development including planning, architecture, and deployment.
+
+**Key Features & Integrations:**
+
+- 🚚 Courier API: Steadfast
+- 💳 Payment Gateway: bKash, EPS
+- ☁️ VPS, NGINX, Cloudflare integration
+- 📩 Email system via Resend
+- 🔐 Session-based authentication
+- 🛡️ Fraud detection system
+- 📊 SEO & Google Tag Manager (GTM)
+
+> 🔄 Ongoing improvements and feature updates
+
+### 📖 Library Management System (Bangla Department)
+
+**🔗 https://bangla.rub.ac.bd**
+
+A full digital + physical library management system designed for restricted academic access.
+
+**Core Features:**
+
+- 🔐 **Secure Access** (Invite-only registration)
+- 📚 **E-Book System** (View & download)
+- 📝 **Membership Application with QR verification**
+- 🔍 **QR Code Verification System**
+- 🧾 **Book Borrowing System**
+  - Max 2 books
+  - 7-day return policy
+  - 1-time renewal (2 days)
+  - Automated fine (5 BDT/day)
+- 📩 **Automated Notifications**
+  - Due reminders & overdue alerts
+- 📄 **PDF Reports for overdue users**
+- 📈 **Popular Books Tracking**
+
+---
+
+<div align="center">
+
 ## 📈 GitHub Activity Overview
 
 [![AL Mamun Khan](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=progmamun&theme=jolly)](https://github.com/progmamun)
@@ -82,16 +151,6 @@
 - 💻 Coding at least 4 hours daily
 - 🏋️ Exercising 3 days a week
 - 📚 Enhancing my CV with continuous learning beyond university
-
-</div>
-
----
-
-<div align="center">
-
-## 🖥️ My Default Operating System
-
-<img src="https://img.shields.io/badge/Debian-Linux-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
 
 </div>
 
