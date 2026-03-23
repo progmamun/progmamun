@@ -74,9 +74,9 @@ _(All projects share a similar D2C/B2C tech stack)_
 
 ### 🛍️ D2C/B2C E-commerce Platform
 
-**🔗 https://apsara.com.bd**
-**🔗 https://ozybd.com**
-**🔗 https://techfev.com.bd**
+- **🔗 https://apsara.com.bd**
+- **🔗 https://ozybd.com**
+- **🔗 https://techfev.com.bd**
 
 End-to-end development including planning, architecture, and deployment.
 
