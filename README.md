@@ -53,10 +53,11 @@
 
 </div>
 
+## 👥 Team Projects
+
 ### 🛒 B2B E-commerce Platform
 
-**🔗 https://chinaonlinebd.com**  
-**📅 Jan 2026 – Mar 2026**
+**🔗 <a href="https://chinaonlinebd.com" target="_blank">https://chinaonlinebd.com</a>**
 
 Chinaonlinebd.com is one of the largest wholesale marketplaces in Bangladesh, providing local and international products at wholesale prices. Users can also purchase products from Alibaba in BDT.
 
@@ -70,13 +71,11 @@ Chinaonlinebd.com is one of the largest wholesale marketplaces in Bangladesh, pr
 
 ## 👨‍💻 Single (Full Ownership) Projects
 
-_(All projects share a similar D2C/B2C tech stack)_
-
 ### 🛍️ D2C/B2C E-commerce Platform
 
-- **🔗 https://apsara.com.bd**
-- **🔗 https://ozybd.com**
-- **🔗 https://techfev.com.bd**
+- 🔗 <a href="https://apsara.com.bd" target="_blank">https://apsara.com.bd</a>
+- 🔗 <a href="https://ozybd.com" target="_blank">https://ozybd.com</a>
+- 🔗 <a href="https://techfev.com.bd" target="_blank">https://techfev.com.bd</a>
 
 End-to-end development including planning, architecture, and deployment.
 
@@ -94,7 +93,7 @@ End-to-end development including planning, architecture, and deployment.
 
 ### 📖 Library Management System (Bangla Department)
 
-**🔗 https://bangla.rub.ac.bd**
+**🔗 <a href="https://bangla.rub.ac.bd" target="_blank">https://bangla.rub.ac.bd</a>**
 
 A full digital + physical library management system designed for restricted academic access.
 
