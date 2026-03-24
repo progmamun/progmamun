@@ -91,6 +91,8 @@ End-to-end development including planning, architecture, and deployment.
 
 > 🔄 Ongoing improvements and feature updates
 
+## ![Apsara Report](./images/apsara-report.png)
+
 ### 📖 Library Management System (Bangla Department)
 
 **🔗 https://bangla.rub.ac.bd**
@@ -112,8 +114,6 @@ A full digital + physical library management system designed for restricted acad
   - Due reminders & overdue alerts
 - 📄 **PDF Reports for overdue users**
 - 📈 **Popular Books Tracking**
-
----
 
 <div align="center">
 
