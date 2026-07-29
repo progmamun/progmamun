@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/progmamun/" target="_blank" rel="noopener">
-    <img src="https://rawcdn.githack.com/progmamun/programming-hero/5e7a9d93012540777c2880f116cd243fc3df4e85/milestone-9/v0.2.svg" alt="Al Mamun Khan" />
+  <a href="https://www.linkedin.com/in/almamunrub/" target="_blank" rel="noopener">
+    <img src="https://rawcdn.githack.com/almamunrub/programming-hero/5e7a9d93012540777c2880f116cd243fc3df4e85/milestone-9/v0.2.svg" alt="Al Mamun Khan" />
   </a>
   
   <h1>Welcome to My Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
@@ -9,13 +9,13 @@
     <a href="https://api.whatsapp.com/send/?phone=+8801516562647&text=Hello&type=phone_number&app_absent=0">
       <img src="https://img.shields.io/badge/WhatsApp-Click%20Here-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
     </a>
-    <a href="https://github.com/progmamun">
-      <img src="https://img.shields.io/github/followers/progmamun?label=Follow&style=social" alt="GitHub Follow" />
+    <a href="https://github.com/almamunrub">
+      <img src="https://img.shields.io/github/followers/almamunrub?label=Follow&style=social" alt="GitHub Follow" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=progmamun&color=228B22" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=almamunrub&color=228B22" alt="Profile Views" />
   </p>
 
-[![AL Mamun Khan](https://awesome-github-stats.azurewebsites.net/user-stats/progmamun?cardType=level-alternate&theme=jolly&preferLogin=true)](https://git.io/awesome-stats-card)
+[![AL Mamun Khan](https://awesome-github-stats.azurewebsites.net/user-stats/almamunrub?cardType=level-alternate&theme=jolly&preferLogin=true)](https://git.io/awesome-stats-card)
 
 </div>
 
@@ -91,7 +91,7 @@ End-to-end development including planning, architecture, and deployment.
 
 > 🔄 Ongoing improvements and feature updates
 
-## ![Apsara Report](./images/apsara-report.png)
+## ![Bangla Library Report](./images/bn-library-report.png)
 
 ### 📖 Library Management System (Bangla Department)
 
@@ -119,7 +119,7 @@ A full digital + physical library management system designed for restricted acad
 
 ## 📈 GitHub Activity Overview
 
-[![AL Mamun Khan](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=progmamun&theme=jolly)](https://github.com/progmamun)
+[![AL Mamun Khan](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=almamunrub&theme=jolly)](https://github.com/almamunrub)
 
 </div>
 
@@ -158,7 +158,8 @@ A full digital + physical library management system designed for restricted acad
 ### 🛠️ Tech Stack:
 
 - Frontend: **ReactJS**, **Next.js**, **Typescript**, **Shadcn UI**, **JavaScript**, **Redux**, **Zod**, **Axios.**
-- Backend: **Node.js**, **Express**, **Postgresql**, **Prisma**, **MongoDB**, **Mongoose**
+- Backend: **Node.js**, **Express**, **Postgresql**, **Prisma**, **MongoDB**, **Mongoose**, **Redis**
+- AI: **RAG**, **Vector DB**
 - Familiar: **Docker**, **AWS (EC2/S3)**, **PM2**, **C/C++**, **PHP**, **Golang**
 - Deployment: **Vercel**, **Railway**, **VPS**
 - Tools: **Git**, **GitHub**, **Postman**, **Jira**, **tmux**, **Vim**, **Supabase**, **Neon**
@@ -183,15 +184,15 @@ A full digital + physical library management system designed for restricted acad
   <tr>
     <td width="50%" align="center" style="vertical-align: middle;">
       <img
-        alt="progmamun :: Profile Stats"
-        src="https://github-readme-stats.vercel.app/api?username=progmamun&theme=blue-green&show_icons=true&count_private=true&hide_border=true"
+        alt="almamunrub :: Profile Stats"
+        src="https://github-readme-stats.vercel.app/api?username=almamunrub&theme=blue-green&show_icons=true&count_private=true&hide_border=true"
         style="width:90%; max-width:420px;"
       />
     </td>
     <td width="50%" align="center" style="vertical-align: middle;">
       <img
-        alt="progmamun :: Top Languages"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=progmamun&langs_count=6&theme=blue-green&layout=compact&hide=html"
+        alt="almamunrub :: Top Languages"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=almamunrub&langs_count=6&theme=blue-green&layout=compact&hide=html"
         style="width:90%; max-width:420px;"
       />
     </td>
@@ -199,8 +200,8 @@ A full digital + physical library management system designed for restricted acad
   <tr>
     <td colspan="2" align="center" style="padding-top: 10px;">
       <img
-        alt="progmamun :: Streak Stats"
-        src="https://github-readme-streak-stats.herokuapp.com?user=progmamun&theme=blue-green&hide_border=true"
+        alt="almamunrub :: Streak Stats"
+        src="https://github-readme-streak-stats.herokuapp.com?user=almamunrub&theme=blue-green&hide_border=true"
         style="width:90%; max-width:600px;"
       />
     </td>
